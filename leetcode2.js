@@ -8,3 +8,6 @@
 
 // Input: x = 121
 // Output: true
+var isPalindrome = function(x) {
+    
+};
